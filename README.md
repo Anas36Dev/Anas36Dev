@@ -16,3 +16,8 @@
   - [MetaRP](https://discord.gg/metafr) Whitelist (as Moderator for 5 months)
   - [NationsGlory](https://discord.gg/nationsglory) (as Moderator for 2 months)
   - SLife Projects (as Developer and Founder for 3 years)
+
+## Contact me : 
+  - On discord in my personal [Discord](https://discord.gg/BWyKCCyPsq) server or by DM : @anas36
+  - On instagram : [@anas36_tv](https://www.instagram.com/anas36_tv)
+  - For a project : dev.pierre.anas@gmail.com
