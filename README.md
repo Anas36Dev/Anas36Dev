@@ -7,8 +7,7 @@
 
 ## You can find me on differently projects like
   - [F&A Shop](https://discord.gg/UDMmFfauTt) (A FiveM shop in collaboration with Florian-1801 as Founder)
-  - [Project War](https://discord.gg/cBA5Ym6upc) (A military-themed FiveM server as Developer)
-  - [ArenoxPvP](https://discord.gg/GbmVzA9Xj3) (A competitive fivem server project by PabloCoding as Moderator)
+  - [Versus™](https://discord.gg/GbmVzA9Xj3) (A competitive fivem server project by PabloCoding as Moderator)
 
 ## Formerly on : 
   - PabloCoding (as Moderator for 2 years)
@@ -16,6 +15,7 @@
   - [MetaRP](https://discord.gg/metafr) Whitelist (as Moderator for 5 months)
   - [NationsGlory](https://discord.gg/nationsglory) (as Moderator for 2 months)
   - SLife Projects (as Developer and Founder for 3 years)
+  - Project War (as Developer for 3 months)
 
 ## Contact me : 
   - On discord in my personal [Discord](https://discord.gg/BWyKCCyPsq) server or by DM : @anas36
