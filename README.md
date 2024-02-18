@@ -24,4 +24,4 @@
 
 ## 💻 Work stats :
 ![Anas36Dev](https://github-readme-stats.vercel.app/api?username=Anas36Dev&show_icons=true&theme=transparent&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas36Dev&theme=transparent&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas36Dev&theme=transparent&layout=compact)
