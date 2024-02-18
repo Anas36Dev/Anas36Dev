@@ -23,11 +23,5 @@
   - For a project : dev.pierre.anas@gmail.com
 
 ## 💻 Work stats :
-
-
-<a href="https://github.com/Anas36Dev">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Anas36Dev&show_icons=true&theme=transparent&count_private=true" />
-</a>
-<a href="https://github.com/Anas36Dev">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas36Dev&theme=transparent&layout=compact" />
-</a>
+![Anas36Dev](https://github-readme-stats.vercel.app/api?username=Anas36Dev&show_icons=true&theme=transparent&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas36Dev&theme=transparent&layout=compact)
