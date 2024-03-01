@@ -11,7 +11,8 @@
 ## 👨‍🦳 Formerly on : 
   - PabloCoding (as Moderator for 2 years)
   - [RedStart-Hosting](https://discord.gg/redstarthosting) (as Technician for 1 year)
-  - [MetaRP](https://discord.gg/metafr) Whitelist (as Moderator for 5 months)
+  - [MetaRP](https://discord.gg/metafr) Whitelist (as Moderator & Developer for 5 months)
+  - FlashLand WL V6 (as test-Developer for 2 weeks)
   - [NationsGlory](https://discord.gg/nationsglory) (as Moderator for 2 months)
   - SLife Projects (as Developer and Founder for 3 years)
   - Project War (as Developer for 4 months)
