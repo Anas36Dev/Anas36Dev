@@ -5,11 +5,13 @@
   - I work in different languages such as Lua, Java, Python, C++, HTML & CSS and JavaScript.
 
 ## 💡 You can find me on differently projects like
-  - [F&A Shop](https://discord.gg/UDMmFfauTt) (A FiveM shop in collaboration with Florian-1801 as Founder)
-  - [Versus™](https://discord.gg/GbmVzA9Xj3) (A competitive fivem server project by PabloCoding as Moderator)
+  - [F&A Shop](https://discord.gg/UDMmFfauTt) (A fivem shop in collaboration with Florian-1801 as Founder)
+  - [American Dream](https://discord.gg/QCHW87SMZM) (A fivem roleplay server as Developer)
+  - War Opération V3 (A fivem military roleplay server as Developer)
 
 ## 👨‍🦳 Formerly on : 
   - PabloCoding (as Moderator for 2 years)
+  - Versus™ (as Moderator for 8 months)
   - [RedStart-Hosting](https://discord.gg/redstarthosting) (as Technician for 1 year)
   - [MetaRP](https://discord.gg/metafr) Whitelist (as Moderator & Developer for 5 months)
   - FlashLand WL V6 (as test-Developer for 2 weeks)
