@@ -7,7 +7,7 @@
 ## 💡 You can find me on differently projects like
   - [F&A Shop](https://discord.gg/UDMmFfauTt) (A fivem shop in collaboration with Florian-1801 as Founder)
   - [American Dream](https://discord.gg/QCHW87SMZM) (A fivem roleplay server as Developer)
-  - War Opération V3 (A fivem military roleplay server as Developer)
+  - [War Operation V3](https://discord.gg/S4sxDseDs4) (A fivem military roleplay server as Developer)
 
 ## 👨‍🦳 Formerly on : 
   - PabloCoding (as Moderator for 2 years)
