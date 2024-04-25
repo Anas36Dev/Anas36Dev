@@ -6,7 +6,6 @@
 
 ## 💡 You can find me on differently projects like
   - [F&A Shop](https://discord.gg/UDMmFfauTt) (A fivem shop in collaboration with Florian-1801 as Founder)
-  - [TMR | FiveM](https://discord.gg/S4sxDseDs4) (A fivem community of two server, one roleplay and one military roleplay as Lead Developer)
   - A project for [J.O. 2024](https://www.paris2024.org/fr/) on Blaise Pascal High School in Châteauroux, in collaboration with ENEDIS / EDF (Electricite de France).
 
 ## 👨‍🦳 Formerly on : 
