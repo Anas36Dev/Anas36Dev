@@ -18,6 +18,8 @@
   - [NationsGlory](https://discord.gg/nationsglory) (as Moderator for 2 months)
   - SLife Projects (as Developer and Founder for 3 years)
   - Project War (as Developer for 4 months)
+  - War Operation V3 (as Lead Developer for 2 months)
+  - TMR FiveM (as Lead Developer for 1 month)
 
 ## 📫 Contact me : 
   - On discord in my personal [Discord](https://discord.gg/BWyKCCyPsq) server or by DM : @anas36
