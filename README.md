@@ -5,7 +5,8 @@
   - I work in different languages such as Lua, Java, Python, C++, HTML & CSS and JavaScript.
 
 ## 💡 You can find me on differently projects like
-  - [F&A Shop](https://discord.gg/UDMmFfauTt) (A fivem shop in collaboration with Florian-1801 as Founder)
+  - [F&A Shop](https://discord.gg/UDMmFfauTt) (A fivem shop in collaboration with Florian-1801 as Founder).
+  - [TNR FiveM](https://discord.gg/wwKCccjfyX) (A fivem multi-roleplay server; a Military Roleplay, a Life Free Access server and a Life Whitelist server).
   - A project for [J.O. 2024](https://www.paris2024.org/fr/) on Blaise Pascal High School in Châteauroux, in collaboration with ENEDIS / EDF (Electricite de France).
 
 ## 👨‍🦳 Formerly on : 
