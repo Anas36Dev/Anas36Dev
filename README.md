@@ -1,7 +1,9 @@
 ## 👋 Who ?
   - I'm Anas36, aka Pierre.
+  - I am 18 years old.
   - I'm a French IT student from France.
   - I share my projects on [GitHub](https://github.com/Anas36Dev) or on my [Discord](https://discord.gg/BWyKCCyPsq) when I think they can be like by other.
+  - I sell some projects on my [Tebex](https://anas36.tebex.io/) page.
   - I work in different languages such as Lua, Java, Python, C++, HTML & CSS and JavaScript.
 
 ## 💡 You can find me on differently projects like
