@@ -5,9 +5,8 @@
   - I work in different languages such as Lua, Java, Python, C++, HTML & CSS and JavaScript.
 
 ## 💡 You can find me on differently projects like
+  - A soon project, first preview in 2025-2026.
   - [F&A Shop](https://discord.gg/UDMmFfauTt) (A fivem shop in collaboration with Florian-1801 as Founder).
-  - [Project FR](https://discord.gg/projectfr) (A community server discord) 
-  - A project for [J.O. 2024](https://www.paris2024.org/fr/) on Blaise Pascal High School in Châteauroux, in collaboration with ENEDIS / EDF (Electricite de France).
 
 ## 👨‍🦳 Formerly on : 
   - PabloCoding (as Moderator for 2 years)
@@ -21,6 +20,7 @@
   - War Operation V3 (as Lead Developer for 2 months)
   - TMR FiveM (as Lead Developer for 1 month)
   - TNR FiveM (as Founder & Lead Developer for 1 month)
+  - A project for [J.O. 2024](https://www.paris2024.org/fr/) on Blaise Pascal High School in Châteauroux, in collaboration with ENEDIS / EDF (Electricite de France).
 
 ## 📫 Contact me : 
   - On discord in my personal [Discord](https://discord.gg/BWyKCCyPsq) server or by DM : @anas36
