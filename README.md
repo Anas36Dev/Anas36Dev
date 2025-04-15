@@ -1,13 +1,13 @@
 ## 👋 Who ?
   - I'm Anas36, aka Pierre.
-  - I am 18 years old.
+  - I am 19 years old.
   - I'm a French IT student from France.
   - I share my projects on [GitHub](https://github.com/Anas36Dev) or on my [Discord](https://discord.gg/BWyKCCyPsq) when I think they can be like by other.
   - I sell some projects on my [Tebex](https://anas36.tebex.io/) page.
   - I work in different languages such as Lua, Java, Python, C++, HTML & CSS and JavaScript.
 
 ## 💡 You can find me on differently projects like
-  - A soon project, first preview in 2025-2026.
+  - [NORTHPOINT | FiveM](https://discord.gg/ka5MZUhUkv) (A fivem roleplay event server as Founder & Lead Developer).
   - [F&A Shop](https://discord.gg/UDMmFfauTt) (A fivem shop in collaboration with Florian-1801 as Founder).
 
 ## 👨‍🦳 Formerly on : 
