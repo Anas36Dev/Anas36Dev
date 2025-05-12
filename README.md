@@ -8,6 +8,7 @@
 
 ## 💡 You can find me on differently projects like
   - [NORTHPOINT | FiveM](https://discord.gg/ka5MZUhUkv) (A fivem roleplay event server as Founder & Lead Developer).
+  - [BADLIFE](https://discord.gg/wrcUkP6zRu) (A fivem roleplay server as Developer).
   - [F&A Shop](https://discord.gg/UDMmFfauTt) (A fivem shop in collaboration with Florian-1801 as Founder).
 
 ## 👨‍🦳 Formerly on : 
