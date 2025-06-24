@@ -8,6 +8,7 @@
 
 ## 💡 You can find me on differently projects like
   - [NORTHPOINT | FiveM](https://discord.gg/ka5MZUhUkv) (A fivem roleplay event server as Founder & Lead Developer).
+  - [Studio Ardentis](https://discord.gg/8A9JC5vHfd) (A collective that supports GTA RP servers).
   - [F&A Shop](https://discord.gg/UDMmFfauTt) (A fivem shop in collaboration with Florian-1801 as Founder).
 
 ## 👨‍🦳 Formerly on : 
