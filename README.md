@@ -7,8 +7,8 @@
   - I work in different languages such as Lua, Java, Python, C++, HTML & CSS and JavaScript.
 
 ## 💡 You can find me on differently projects like
-  - [NORTHPOINT | FiveM](https://discord.gg/ka5MZUhUkv) (A fivem roleplay event server as Founder & Lead Developer).
   - [Studio Ardentis](https://discord.gg/8A9JC5vHfd) (A collective that supports GTA RP servers).
+  - [NORTHPOINT | FiveM](https://discord.gg/ka5MZUhUkv) (A fivem roleplay event server as Founder & Lead Developer).
   - [F&A Shop](https://discord.gg/UDMmFfauTt) (A fivem shop in collaboration with Florian-1801 as Founder).
 
 ## 👨‍🦳 Formerly on : 
