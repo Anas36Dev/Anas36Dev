@@ -1,5 +1,5 @@
 ## 👋 Who ?
-  - I'm Anas36, aka Pierre.
+  - I'm Anas36, aka Pierre-Louis.
   - I am 19 years old.
   - I'm a French IT student from France.
   - I share my projects on [GitHub](https://github.com/Anas36Dev) or on my [Discord](https://discord.gg/BWyKCCyPsq) when I think they can be like by other.
