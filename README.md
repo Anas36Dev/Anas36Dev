@@ -31,7 +31,6 @@
 
 ### 💡 Currently
 
-- 🎓 **Dekay Whitelist** — *Moderator* — since Jun. 2026
 - 🎓 [**3LEvent**](https://discord.gg/gqsvzTxa4J) — *Referee & Moderator* — since Jan. 2026
 - 🛠 [**Rewind Whitelist**](https://discord.gg/TvDEKm8cuw) — *Founder & Lead Developer* — since Nov. 2025
 - 🎓 [**NationsGlory**](https://discord.gg/nationsglory) — *Discord Staff* — since Feb. 2025
