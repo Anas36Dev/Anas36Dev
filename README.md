@@ -31,11 +31,12 @@
 
 ### 💡 Currently
 
+- 🎓 [**XowLi**](https://www.twitch.tv/xowli) — *Twitch Moderator* — since May. 2026
 - 🎓 [**3LEvent**](https://discord.gg/gqsvzTxa4J) — *Referee & Moderator* — since Jan. 2026
 - 🛠 [**Rewind Whitelist**](https://discord.gg/TvDEKm8cuw) — *Founder & Lead Developer* — since Nov. 2025
 - 🎓 [**NationsGlory**](https://discord.gg/nationsglory) — *Discord Staff* — since Feb. 2025
 - 🛠 [**Frozen-Host**](https://discord.gg/G2uGfrUDPd) — *Technician & Developer* — since Sep. 2024
-- 👔 [**F&A Shop**](https://discord.gg/2799Uwu89Q) — *Co-Founder* — since Oct. 2023
+- 🛠 [*CORE France Project**](https://discord.gg/wRy7FfJRFU) — *Father Founder & Lead Developer* — since Jul. 2019
 
 ### 👨‍🦳 Formerly
 
@@ -43,6 +44,7 @@
 - 🛠 [**American Dream**](https://discord.gg/QCHW87SMZM) — *Lead Developer* — Nov. 2024 → Feb. 2025
 - 🎓 **AMI RP** — *Moderator* — Jul. 2024 → Aug. 2024
 - 🛠 [**Project War**](https://discord.gg/4W84JXMbQJ) — *Developer* — Oct. 2023 → Jan. 2024
+- 👔 [**F&A Shop**](https://discord.gg/2799Uwu89Q) — *Co-Founder* — Oct. 2023 → Apr. 2026
 - 🎓 **Versus™** — *Moderator* — Jun. 2023 → Aug. 2023
 - 🛠 **TMR FiveM** — *Lead Developer* — May 2023 → Jul. 2023
 - 🛠 **War Operation V3** — *Lead Developer* — Mar. 2023 → May 2023
